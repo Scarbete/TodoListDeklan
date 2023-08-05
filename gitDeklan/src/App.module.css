@@ -1,0 +1,21 @@
+.todoCard {
+    width: 600px;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: orange;
+}
+
+.completed {background-color: greenyellow;}
+.notCompleted {background-color: red;}
+
+.addTodoForm {
+    width: 600px;
+    margin: 10px auto;
+    border-radius: 10px;
+    background-color: chartreuse;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
